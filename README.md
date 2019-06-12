@@ -59,7 +59,7 @@ the watcher to resolve the glob. By doing this, new files that match the glob
 will be picked up.
 
 Watch mode writes to a file named `tags` in the current working directory. This
-may be overwritten by specifying `--output` with a file path.
+may be overridden by specifying `--output` with a file path.
 
 ## API
 
