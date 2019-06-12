@@ -82,5 +82,6 @@ goals.
 
 MIT
 
+[npm]: https://www.npmjs.com/get-npm
 [ctags]: https://en.wikipedia.org/wiki/Ctags
 [Vim]: https://www.vim.org/
